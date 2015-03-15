@@ -1,1 +1,6 @@
 Machine!="t2bat0260.cmsaf.mit.edu"
+Machine!="t2bat0286.cmsaf.mit.edu"
+Machine!="t2bat0337.cmsaf.mit.edu"
+Machine!="hibat0016.cmsaf.mit.edu"
+Machine!="hibat0081.cmsaf.mit.edu"
+Machine!="hibat0092.cmsaf.mit.edu"

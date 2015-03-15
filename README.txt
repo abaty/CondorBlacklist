@@ -13,7 +13,9 @@ line having
 
 Requirements = blacklist_here
 
-and replaces "blacklist_here" with the appropriate string
-
+and replaces "blacklist_here" with the appropriate string.  There is currently
+a bug in the submit code that sometimes causes the run.condor file to not
+be copied appropriately to the new directory, but I cannot reproduce it.  Just
+run the submit.sh code again if this happens.
 
 
